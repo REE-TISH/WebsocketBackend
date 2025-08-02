@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-k9*2ri_b9bkv^lp7hu8sp_yk!pkwr*m!7o$lpz52tr%w(*h&h=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['websocketbackend-rzit.onrender.com']
+ALLOWED_HOSTS = ['websocketbackend-tel9.onrender.com',]
 
 
 # Application definition
